@@ -1,4 +1,6 @@
-
+ <div style="width: 100%; height: 312px; overflow: hidden;">
+        <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Facebook Banner" style="width: 100%; height: auto;">
+    </div>
 
 <h1 align="center">Hi 👋, I'm Marzouki Yassine</h1>
 <h3 align="center">A Software Software Engineering Student</h3>
