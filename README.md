@@ -3,7 +3,7 @@
     </div>
 
 <h1 align="center">Hi 👋, I'm Marzouki Yassine</h1>
-<h3 align="center">A Software Software Engineering Student</h3>
+<h3 align="center">A Software Engineering Student</h3>
      
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
