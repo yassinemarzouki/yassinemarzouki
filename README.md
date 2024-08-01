@@ -9,6 +9,7 @@
 
 <p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/yassinemarzouki" target="_blank">https://github.com/yassinemarzouki</a></p>
 <p align="left">📫 How to reach me: <strong>yassine.marzouki@esprit.tn</strong></p>
+<p align="left">📱 WhatsApp: <strong>+216XXXXXXXX</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,20 +89,33 @@
     <div style="text-align: center;">
         <svg width="100" height="100">
             <circle cx="50" cy="50" r="45" stroke="#0077b5" stroke-width="5" fill="none"/>
-            <text id="profile-views" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em"></text>
+            <text id="profile-views" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em">0</text>
         </svg>
         <p>Profile Views</p>
     </div>
     <div style="text-align: center;">
         <svg width="100" height="100">
             <circle cx="50" cy="50" r="45" stroke="#0077b5" stroke-width="5" fill="none"/>
-            <text id="project-count" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em"></text>
+            <text id="project-count" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em">0</text>
         </svg>
         <p>Projects</p>
     </div>
 </div>
 
 <script>
-    document.getElementById('profile-views').innerHTML = '1500'; // Example value
-    document.getElementById('project-count').innerHTML = '20'; // Example value
+    // Replace with real data fetching logic
+    async function fetchProfileStatistics() {
+        // Example static data, replace with actual API call
+        const profileViews = await fetch('https://api.example.com/linkedin/profile-views')
+            .then(response => response.json())
+            .then(data => data.views);
+        const projectCount = await fetch('https://api.example.com/github/project-count')
+            .then(response => response.json())
+            .then(data => data.count);
+
+        document.getElementById('profile-views').innerHTML = profileViews;
+        document.getElementById('project-count').innerHTML = projectCount;
+    }
+
+    fetchProfileStatistics();
 </script>
