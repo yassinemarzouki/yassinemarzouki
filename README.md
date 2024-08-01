@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+</head>
+<body>
+
 <div style="width: 100%; height: 312px; overflow: hidden;">
     <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner" style="width: 100%; height: auto;">
 </div>
@@ -103,19 +112,31 @@
 </div>
 
 <script>
-    // Replace with real data fetching logic
     async function fetchProfileStatistics() {
-        // Example static data, replace with actual API call
-        const profileViews = await fetch('https://api.example.com/linkedin/profile-views')
-            .then(response => response.json())
-            .then(data => data.views);
-        const projectCount = await fetch('https://api.example.com/github/project-count')
-            .then(response => response.json())
-            .then(data => data.count);
+        try {
+            // Exemple de données statiques, remplacer par l'appel d'API réel
+            const responseLinkedIn = await fetch('https://api.linkedin.com/v2/me', {
+                method: 'GET',
+                headers: {
+                    'Authorization': 'Bearer VOTRE_TOKEN_D_ACCESS_LINKEDIN'
+                }
+            });
+            const dataLinkedIn = await responseLinkedIn.json();
+            const profileViews = dataLinkedIn.profileViews;
 
-        document.getElementById('profile-views').innerHTML = profileViews;
-        document.getElementById('project-count').innerHTML = projectCount;
+            const responseGitHub = await fetch('https://api.github.com/users/yassinemarzouki/repos');
+            const dataGitHub = await responseGitHub.json();
+            const projectCount = dataGitHub.length;
+
+            document.getElementById('profile-views').innerHTML = profileViews;
+            document.getElementById('project-count').innerHTML = projectCount;
+        } catch (error) {
+            console.error('Erreur lors de la récupération des statistiques du profil:', error);
+        }
     }
 
     fetchProfileStatistics();
 </script>
+
+</body>
+</html>
