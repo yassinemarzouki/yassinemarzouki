@@ -102,7 +102,6 @@
 </div>
 
 <script>
-    // Replace with real data fetching logic
     document.getElementById('profile-views').innerHTML = '1500'; // Example value
     document.getElementById('project-count').innerHTML = '20'; // Example value
 </script>
