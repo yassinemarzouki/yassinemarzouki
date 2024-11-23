@@ -75,11 +75,12 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Contributions -->
+  <!-- GitHub Activity -->
   <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yassinemarzouki&theme=github&hide_border=true" alt="GitHub Contributions" width="50%" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yassinemarzouki&theme=react&hide_border=true" alt="GitHub Activity" width="50%" />
   </a>
 </p>
+
 
 
 
