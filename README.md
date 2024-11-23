@@ -75,11 +75,12 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Activity -->
-  <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinemarzouki&theme=react&hide_border=true" alt="GitHub Activity" width="50%" />
+  <!-- WakaTime Stats -->
+  <a href="https://wakatime.com/@yassinemarzouki">
+    <img src="https://wakatime.com/share/@yassinemarzouki/d687cbe3-4a9a-4d27-bbfa-5f1a600be465.png" alt="Wakatime Stats" width="80%" />
   </a>
 </p>
+
 ---
 
 ## 💡 Fun Fact  
