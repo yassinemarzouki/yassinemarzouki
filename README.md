@@ -7,7 +7,6 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
@@ -16,7 +15,7 @@
         header {
             background-color: #0077b5;
             color: white;
-            padding: 1rem 0;
+            padding: 2rem 0;
             text-align: center;
         }
         header img {
@@ -36,15 +35,12 @@
         .badges img {
             margin: 5px;
         }
-        .projects table {
-            width: 100%;
-            margin: 20px 0;
-            border-collapse: collapse;
+        .projects ul {
+            list-style: none;
+            padding: 0;
         }
-        .projects td {
-            text-align: center;
-            padding: 10px;
-            border: 1px solid #ddd;
+        .projects li {
+            margin: 10px 0;
         }
         .buttons a {
             text-decoration: none;
@@ -64,50 +60,33 @@
 <header>
     <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner">
     <h1>Hi 👋, I'm Marzouki Yassine</h1>
-    <h2>Full Stack Engineer | Software Innovator | Problem Solver</h2>
-    <p>Passionate about building efficient, scalable, and user-friendly software solutions.</p>
+    <h2>Full Stack Engineer | Software Innovator</h2>
 </header>
 
 <section>
     <h2 class="center">🌟 Featured Projects</h2>
-    <table class="projects">
-        <tr>
-            <td>
-                <a href="https://github.com/yassinemarzouki/project1" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinemarzouki&repo=project1" alt="Project 1">
-                </a>
-                <p>A web app for managing car repair appointments using Angular & Spring Boot.</p>
-            </td>
-            <td>
-                <a href="https://github.com/yassinemarzouki/project2" target="_blank">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinemarzouki&repo=project2" alt="Project 2">
-                </a>
-                <p>An e-commerce platform built with Symfony and PHP.</p>
-            </td>
-        </tr>
-    </table>
-</section>
-
-<section>
-    <h2 class="center">💡 About Me</h2>
-    <p>I am a passionate Full Stack Engineer with expertise in Java Spring Boot, Angular, Symfony, PHP, .NET, and DevOps. I love solving complex problems and transforming ideas into scalable solutions. I enjoy contributing to open-source projects and mentoring developers in my free time.</p>
-</section>
-
-<section>
-    <h2 class="center">🎓 Certifications</h2>
-    <ul>
-        <li>Oracle Certified Java Programmer</li>
-        <li>Microsoft Azure DevOps Engineer</li>
-        <li>Winner of XYZ Hackathon</li>
+    <ul class="projects">
+        <li>
+            <strong>Project 1</strong>: A web application for managing car repair appointments using Angular & Spring Boot.
+            <br>
+            <a href="https://github.com/yassinemarzouki/project1" target="_blank">View Project</a>
+        </li>
+        <li>
+            <strong>Project 2</strong>: An e-commerce platform built with Symfony and PHP.
+            <br>
+            <a href="https://github.com/yassinemarzouki/project2" target="_blank">View Project</a>
+        </li>
+        <li>
+            <strong>Project 3</strong>: A DevOps pipeline implementation using Azure DevOps.
+            <br>
+            <a href="https://github.com/yassinemarzouki/project3" target="_blank">View Project</a>
+        </li>
     </ul>
 </section>
 
 <section>
-    <h2 class="center">📊 Statistics</h2>
-    <div class="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&locale=en" alt="GitHub Stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemarzouki" alt="GitHub Streak">
-    </div>
+    <h2 class="center">💡 About Me</h2>
+    <p class="center">I am a passionate Full Stack Engineer with expertise in Java Spring Boot, Angular, Symfony, PHP, .NET, and DevOps. I love solving complex problems and turning ideas into reality through code.</p>
 </section>
 
 <section>
