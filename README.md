@@ -3,140 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
+    <title>Yassine Marzouki - Full Stack Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0077b5;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header img {
+            width: 150px;
+            border-radius: 50%;
+            margin: 1rem 0;
+        }
+        section {
+            padding: 2rem;
+        }
+        h1, h2, h3 {
+            color: #0077b5;
+        }
+        .center {
+            text-align: center;
+        }
+        .badges img {
+            margin: 5px;
+        }
+        .projects table {
+            width: 100%;
+            margin: 20px 0;
+            border-collapse: collapse;
+        }
+        .projects td {
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .buttons a {
+            text-decoration: none;
+            padding: 10px 20px;
+            color: white;
+            border-radius: 5px;
+            margin: 10px;
+            display: inline-block;
+        }
+        .buttons a.email { background-color: #0077b5; }
+        .buttons a.linkedin { background-color: #2867b2; }
+        .buttons a.github { background-color: #333; }
+    </style>
 </head>
 <body>
 
-<div style="width: 100%; height: 312px; overflow: hidden;">
-    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner" style="width: 100%; height: auto;">
-</div>
+<header>
+    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner">
+    <h1>Hi 👋, I'm Marzouki Yassine</h1>
+    <h2>Full Stack Engineer | Software Innovator | Problem Solver</h2>
+    <p>Passionate about building efficient, scalable, and user-friendly software solutions.</p>
+</header>
 
-<h1 align="center">Hi 👋, I'm Marzouki Yassine</h1>
-<h3 align="center">A Full Stack Engineer</h3>
+<section>
+    <h2 class="center">🌟 Featured Projects</h2>
+    <table class="projects">
+        <tr>
+            <td>
+                <a href="https://github.com/yassinemarzouki/project1" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinemarzouki&repo=project1" alt="Project 1">
+                </a>
+                <p>A web app for managing car repair appointments using Angular & Spring Boot.</p>
+            </td>
+            <td>
+                <a href="https://github.com/yassinemarzouki/project2" target="_blank">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yassinemarzouki&repo=project2" alt="Project 2">
+                </a>
+                <p>An e-commerce platform built with Symfony and PHP.</p>
+            </td>
+        </tr>
+    </table>
+</section>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<section>
+    <h2 class="center">💡 About Me</h2>
+    <p>I am a passionate Full Stack Engineer with expertise in Java Spring Boot, Angular, Symfony, PHP, .NET, and DevOps. I love solving complex problems and transforming ideas into scalable solutions. I enjoy contributing to open-source projects and mentoring developers in my free time.</p>
+</section>
 
-<p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/yassinemarzouki" target="_blank">https://github.com/yassinemarzouki</a></p>
-<p align="left">📫 How to reach me: <strong>yassine.marzouki@esprit.tn</strong></p>
-<p align="left">📱 WhatsApp: <strong>+216 8025732</strong></p>
+<section>
+    <h2 class="center">🎓 Certifications</h2>
+    <ul>
+        <li>Oracle Certified Java Programmer</li>
+        <li>Microsoft Azure DevOps Engineer</li>
+        <li>Winner of XYZ Hackathon</li>
+    </ul>
+</section>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/yassine-marzouki" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine marzouki" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-        <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="devops" width="40" height="40"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-</p>
-
-<h3 align="left">Skills:</h3>
-<ul>
-    <li>Full Stack Development</li>
-    <li>Software Engineering</li>
-    <li>Project Management</li>
-    <li>DevOps</li>
-    <!-- Add more skills as needed -->
-</ul>
-
-<h3 align="left">Achievements:</h3>
-<ul>
-    <li>Certified Java Developer</li>
-    <li>Winner of XYZ Hackathon 2023</li>
-    <li>Top Performer in ABC Coding Competition</li>
-    <!-- Add more achievements as needed -->
-</ul>
-
-<h3 align="left">Experience:</h3>
-<p>Intern at XYZ Company - Worked on developing a web application using Angular and Spring Boot.</p>
-<!-- Add more experience as needed -->
-
-<h3 align="left">Education:</h3>
-<p>Esprit School of Engineering - Bachelor of Software Engineering</p>
-
-<h3 align="left">Projects:</h3>
-<ul>
-    <li><strong>Project 1</strong>: A web application for managing car repair appointments using Angular and Spring Boot. <a href="https://github.com/yassinemarzouki/project1" target="_blank">View Project</a></li>
-    <li><strong>Project 2</strong>: An e-commerce platform built with Symfony and PHP. <a href="https://github.com/yassinemarzouki/project2" target="_blank">View Project</a></li>
-    <li><strong>Project 3</strong>: A DevOps pipeline implementation using Azure DevOps. <a href="https://github.com/yassinemarzouki/project3" target="_blank">View Project</a></li>
-    <!-- Add more projects as needed -->
-</ul>
-
-<h3 align="left">About Me:</h3>
-<p>I am a passionate Full Stack Engineer with a strong background in Java Spring Boot, Angular, Symfony, PHP, .NET, DevOps, C#, and C. I love tackling complex problems and turning ideas into reality through code. In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest industry trends.</p>
-
-<h3 align="left">Profile Statistics:</h3>
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <svg width="100" height="100">
-            <circle cx="50" cy="50" r="45" stroke="#0077b5" stroke-width="5" fill="none"/>
-            <text id="profile-views" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em">0</text>
-        </svg>
-        <p>Profile Views</p>
+<section>
+    <h2 class="center">📊 Statistics</h2>
+    <div class="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&locale=en" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemarzouki" alt="GitHub Streak">
     </div>
-    <div style="text-align: center;">
-        <svg width="100" height="100">
-            <circle cx="50" cy="50" r="45" stroke="#0077b5" stroke-width="5" fill="none"/>
-            <text id="project-count" x="50%" y="50%" text-anchor="middle" stroke="#0077b5" stroke-width="1px" dy=".3em">0</text>
-        </svg>
-        <p>Projects</p>
+</section>
+
+<section>
+    <h2 class="center">📋 Skills</h2>
+    <div class="badges center">
+        <img src="https://img.shields.io/badge/Java-Expert-blue?style=flat-square&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Angular-Intermediate-red?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/DevOps-Skilled-green?style=flat-square&logo=azure-pipelines&logoColor=white" alt="DevOps">
+        <img src="https://img.shields.io/badge/.NET-Advanced-blueviolet?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
     </div>
-</div>
+</section>
 
-<script>
-    async function fetchProfileStatistics() {
-        try {
-            // Exemple de données statiques, remplacer par l'appel d'API réel
-            const responseLinkedIn = await fetch('https://api.linkedin.com/v2/me', {
-                method: 'GET',
-                headers: {
-                    'Authorization': 'Bearer VOTRE_TOKEN_D_ACCESS_LINKEDIN'
-                }
-            });
-            const dataLinkedIn = await responseLinkedIn.json();
-            const profileViews = dataLinkedIn.profileViews;
-
-            const responseGitHub = await fetch('https://api.github.com/users/yassinemarzouki/repos');
-            const dataGitHub = await responseGitHub.json();
-            const projectCount = dataGitHub.length;
-
-            document.getElementById('profile-views').innerHTML = profileViews;
-            document.getElementById('project-count').innerHTML = projectCount;
-        } catch (error) {
-            console.error('Erreur lors de la récupération des statistiques du profil:', error);
-        }
-    }
-
-    fetchProfileStatistics();
-</script>
+<section>
+    <h2 class="center">📞 Let's Connect</h2>
+    <div class="buttons center">
+        <a href="mailto:yassine.marzouki@esprit.tn" class="email">Email Me</a>
+        <a href="https://linkedin.com/in/yassine-marzouki" target="_blank" class="linkedin">LinkedIn</a>
+        <a href="https://github.com/yassinemarzouki" target="_blank" class="github">GitHub</a>
+    </div>
+</section>
 
 </body>
 </html>
