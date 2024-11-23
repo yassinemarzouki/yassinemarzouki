@@ -75,9 +75,9 @@
 </p>
 
 <p align="center">
-  <!-- Dynamic GitHub Contribution Graph -->
+  <!-- GitHub Activity -->
   <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yassinemarzouki&theme=github&hide_border=true&area=true" alt="Dynamic GitHub Contribution Graph" width="80%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinemarzouki&theme=react&hide_border=true" alt="GitHub Activity" width="50%" />
   </a>
 </p>
 ---
