@@ -1,7 +1,7 @@
 # Hi 👋, I'm Marzouki Yassine  
 ### A Full Stack Engineer  
 
-<img align="center" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Profile Banner" width="100%" />
+<img align="center" src="https://i.imgur.com/6yUV3kB.png" alt="Professional Banner" width="100%" />
 
 ---
 
