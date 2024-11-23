@@ -77,8 +77,8 @@
 <p align="center">
   <!-- Most Used Languages -->
   <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemarzouki&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemarzouki&repo=NomDuDepot&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" />
+</a>
 </p>
 
 ---
