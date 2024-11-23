@@ -75,11 +75,12 @@
 </p>
 
 <p align="center">
-  <!-- Most Used Languages -->
+  <!-- GitHub Contributions -->
   <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemarzouki&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yassinemarzouki&theme=github&hide_border=true" alt="GitHub Contributions" width="50%" />
   </a>
 </p>
+
 
 
 ---
