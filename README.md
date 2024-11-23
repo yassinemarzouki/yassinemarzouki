@@ -77,9 +77,10 @@
 <p align="center">
   <!-- WakaTime Stats -->
   <a href="https://wakatime.com/@yassinemarzouki">
-    <img src="https://wakatime.com/share/@yassinemarzouki/d687cbe3-4a9a-4d27-bbfa-5f1a600be465.png" alt="Wakatime Stats" width="80%" />
+    <img src="https://wakatime.com/share/@yassinemarzouki/your-new-image-link.png" alt="Wakatime Stats" width="80%" />
   </a>
 </p>
+
 
 ---
 
