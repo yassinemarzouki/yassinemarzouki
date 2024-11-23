@@ -75,9 +75,9 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime Stats -->
+  <!-- WakaTime Badge -->
   <a href="https://wakatime.com/@yassinemarzouki">
-    <img src="https://wakatime.com/share/@yassinemarzouki/your-new-image-link.png" alt="Wakatime Stats" width="80%" />
+    <img src="https://wakatime.com/badge/user/your-username.svg" alt="Wakatime Badge" width="80%" />
   </a>
 </p>
 
