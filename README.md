@@ -75,11 +75,12 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime Badge -->
-  <a href="https://wakatime.com/@yassinemarzouki">
-    <img src="https://wakatime.com/badge/user/your-username.svg" alt="Wakatime Badge" width="80%" />
+  <!-- Profile View Stats - Dynamic -->
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinemarzouki&theme=radical" alt="Profile Views" width="80%" />
   </a>
 </p>
+
 
 
 ---
