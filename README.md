@@ -54,11 +54,31 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 Dynamic GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemarzouki&theme=tokyonight" alt="GitHub Streak" width="400" />
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinemarzouki&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="90%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-profile-trophy.vercel.app/?username=yassinemarzouki&theme=tokyonight&row=1&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" width="70%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemarzouki&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemarzouki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  </a>
 </p>
 
 ---
