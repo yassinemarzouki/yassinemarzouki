@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 
 🔹 I specialize in **Full Stack Development**, working with modern technologies like:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Java` `Spring Boot` `Angular` `Symfony` `PHP` `.NET` `DevOps`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Java` `Spring Boot` `Angular` `DevOps`  
 
 🔹 I love solving complex problems, collaborating in teams, and learning new tools & frameworks.  
 
@@ -20,13 +20,10 @@
 
 **Languages**:  
 ![Java](https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-Advanced-purple?style=for-the-badge&logo=csharp&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks**:  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?style=for-the-badge&logo=spring&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-Intermediate-red?style=for-the-badge&logo=angular&logoColor=white)  
-![Symfony](https://img.shields.io/badge/Symfony-Advanced-black?style=for-the-badge&logo=symfony&logoColor=white)
 
 **DevOps Tools**:  
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Expert-blue?style=for-the-badge&logo=azure-devops&logoColor=white)  
@@ -39,7 +36,6 @@
 | **Project** | **Description** | **Tech Stack** |  
 |-------------|-----------------|----------------|  
 | **[Project 1](https://github.com/yassinemarzouki/project1)** | Web app for managing car repair appointments. | `Angular` `Spring Boot` |  
-| **[Project 2](https://github.com/yassinemarzouki/project2)** | E-commerce platform with advanced features. | `Symfony` `PHP` |  
 | **[Project 3](https://github.com/yassinemarzouki/project3)** | DevOps pipeline implementation. | `Azure DevOps` `CI/CD` |  
 
 ---
