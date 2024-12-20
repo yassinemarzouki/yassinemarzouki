@@ -67,10 +67,11 @@
 </p>
 
 <p align="center">
-  <!-- Simple GitHub Stats -->
-  <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
+  <!-- WakaTime Stats -->
+  <a href="https://wakatime.com/@yourusername">
+  <img src="https://wakatime.com/badge/user/yourusername.svg" alt="WakaTime Stats" width="48%" />
+</a>
+
   <!-- GitHub Streak -->
   <a href="https://github.com/yassinemarzouki">
   <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
