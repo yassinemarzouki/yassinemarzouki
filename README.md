@@ -68,9 +68,10 @@
 
 <p align="center">
   <!-- WakaTime Stats -->
-  <a href="https://wakatime.com/@yourusername">
-  <img src="https://wakatime.com/badge/user/yourusername.svg" alt="WakaTime Stats" width="48%" />
+<a href="https://wakatime.com/@yassinemarzouki">
+  <img src="https://wakatime.com/badge/user/yassinemarzouki.svg" alt="WakaTime Stats" width="48%" />
 </a>
+
 
   <!-- GitHub Streak -->
   <a href="https://github.com/yassinemarzouki">
