@@ -67,10 +67,10 @@
 </p>
 
 <p align="center">
-  <!-- WakaTime Stats -->
-<a href="https://wakatime.com/@yassinemarzouki">
+  <a href="https://wakatime.com/yassinemarzouki">
   <img src="https://wakatime.com/badge/user/yassinemarzouki.svg" alt="WakaTime Stats" width="48%" />
 </a>
+
 
 
 
