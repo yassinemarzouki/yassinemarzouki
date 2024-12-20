@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px">
   <strong>Welcome to my GitHub!</strong>
 </p>
 
 
-# 🌟 Hi, I'm Marzouki Yassine  
+
+# I'm Marzouki Yassine  
 ### **A Full Stack Engineer Passionate About Building Impactful Solutions**
 
 ---
