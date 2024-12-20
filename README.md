@@ -66,7 +66,15 @@
   </a>
   <!-- GitHub Streak -->
   <a href="https://github.com/yassinemarzouki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinemarzouki&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinemarzouki&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+</a>
+
+
+## 📊 Top Languages by Commits  
+
+<p align="center">
+  <a href="https://github.com/yassinemarzouki">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinemarzouki&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
