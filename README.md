@@ -45,6 +45,13 @@
 | **[Project 1](https://github.com/yassinemarzouki/project1)** | Web app for managing car repair appointments. | `Angular` `Spring Boot` |  
 | **[Project 3](https://github.com/yassinemarzouki/project3)** | DevOps pipeline implementation. | `Azure DevOps` `CI/CD` |  
 
+🌟 Featured Projects
+<div align="center">
+🚗 Project 1: Car Repair Management
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; max-width: 600px; text-align: left; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"> <strong>Description:</strong> A web app to manage and schedule car repair appointments. <br> <strong>Tech Stack:</strong> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"> </div>
+🔧 Project 3: DevOps Pipeline Implementation
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; max-width: 600px; text-align: left; background: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"> <strong>Description:</strong> Built and deployed a CI/CD pipeline using Azure DevOps. <br> <strong>Tech Stack:</strong> <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"> <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF9800?style=flat-square"> </div> </div>
+
 ---
 
 ## 📞 Let's Connect  
