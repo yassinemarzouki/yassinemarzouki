@@ -124,30 +124,8 @@
 
 ---
 
-## 📞 Let's Connect
-
-<p align="center">
-  <a href="mailto:yassine.marzouki@esprit.tn" 
-     style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; 
-            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
-    <img src="https://img.icons8.com/ios-filled/25/ffffff/email.png" style="vertical-align: middle; margin-right: 8px;"> 
-    Email
-  </a>
-
-  <a href="https://linkedin.com/in/yassine-marzouki" 
-     style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; 
-            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
-    <img src="https://img.icons8.com/ios-filled/25/ffffff/linkedin.png" style="vertical-align: middle; margin-right: 8px;"> 
-    LinkedIn
-  </a>
-
-  <a href="https://github.com/yassinemarzouki" 
-     style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; 
-            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
-    <img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" style="vertical-align: middle; margin-right: 8px;"> 
-    GitHub
-  </a>
-</p>
+📞 Let's Connect
+<p align="center"> <a href="mailto:yassine.marzouki@esprit.tn"> <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/yassine-marzouki"> <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/yassinemarzouki"> <img src="https://img.shields.io/badge/🌎%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 
 
 
