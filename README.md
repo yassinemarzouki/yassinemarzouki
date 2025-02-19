@@ -126,19 +126,24 @@
 
 ## 📞 Let's Connect
 
-<p align="center">
-  <a href="mailto:yassine.marzouki@esprit.tn" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  
-  <a href="https://linkedin.com/in/yassine-marzouki" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center" style="font-size: 18px;">
+  <a href="mailto:yassine.marzouki@esprit.tn" style="text-decoration: none; margin: 15px; color: white;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="30" alt="Email"> Email
   </a>
 
-  <a href="https://github.com/yassinemarzouki" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <span style="margin: 0 15px; color: #4CAF50;">•</span>
+
+  <a href="https://linkedin.com/in/yassine-marzouki" style="text-decoration: none; margin: 15px; color: white;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30" alt="LinkedIn"> LinkedIn
+  </a>
+
+  <span style="margin: 0 15px; color: #4CAF50;">•</span>
+
+  <a href="https://github.com/yassinemarzouki" style="text-decoration: none; margin: 15px; color: white;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" alt="GitHub"> GitHub
   </a>
 </p>
+
 
 
 ---
