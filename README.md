@@ -126,23 +126,29 @@
 
 ## 📞 Let's Connect
 
-<p align="center" style="font-size: 18px;">
-  <a href="mailto:yassine.marzouki@esprit.tn" style="text-decoration: none; margin: 15px; color: white;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="30" alt="Email"> Email
+<p align="center">
+  <a href="mailto:yassine.marzouki@esprit.tn" 
+     style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; 
+            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/25/ffffff/email.png" style="vertical-align: middle; margin-right: 8px;"> 
+    Email
   </a>
 
-  <span style="margin: 0 15px; color: #4CAF50;">•</span>
-
-  <a href="https://linkedin.com/in/yassine-marzouki" style="text-decoration: none; margin: 15px; color: white;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="30" alt="LinkedIn"> LinkedIn
+  <a href="https://linkedin.com/in/yassine-marzouki" 
+     style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; 
+            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/25/ffffff/linkedin.png" style="vertical-align: middle; margin-right: 8px;"> 
+    LinkedIn
   </a>
 
-  <span style="margin: 0 15px; color: #4CAF50;">•</span>
-
-  <a href="https://github.com/yassinemarzouki" style="text-decoration: none; margin: 15px; color: white;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" alt="GitHub"> GitHub
+  <a href="https://github.com/yassinemarzouki" 
+     style="display: inline-block; background-color: #333; color: white; padding: 10px 20px; 
+            margin: 10px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" style="vertical-align: middle; margin-right: 8px;"> 
+    GitHub
   </a>
 </p>
+
 
 
 
