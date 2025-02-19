@@ -50,33 +50,66 @@
 ---
 
 ## 🔥 Featured Projects
-<table>
-  <tr>
-    <th>🚀 Project</th>
-    <th>📄 Description</th>
-    <th>🛠 Tech Stack</th>
+<table style="width: 100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif; background-color: #1e1e2e; color: white; border-radius: 10px; overflow: hidden;">
+  <tr style="background-color: #4CAF50; color: white; text-align: center;">
+    <th style="padding: 15px;">🚀 Project</th>
+    <th style="padding: 15px;">📄 Description</th>
+    <th style="padding: 15px;">🛠 Tech Stack</th>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/project1" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/car-service.png" width="20" alt="AutoFix"> AutoFix
+      </a>
+    </td>
+    <td style="padding: 15px;">Web app for managing car repair appointments.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/project3" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/cloud-settings.png" width="20" alt="CloudOps"> CloudOps Automation
+      </a>
+    </td>
+    <td style="padding: 15px;">DevOps pipeline implementation.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/camping-management" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/tent.png" width="20" alt="Camping"> Camping Management System
+      </a>
+    </td>
+    <td style="padding: 15px;">Platform for managing campsite bookings, schedules, and payments.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/yassinemarzouki/project1">AutoFix</a></td>
-    <td>Web app for managing car repair appointments.</td>
-    <td>Angular, Spring Boot, MySQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/yassinemarzouki/project3">CloudOps Automation</a></td>
-    <td>DevOps pipeline implementation.</td>
-    <td>Azure DevOps, Docker, Kubernetes</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/yassinemarzouki/camping-management">Camping Management System</a></td>
-    <td>Platform for managing campsite bookings, schedules, and payments.</td>
-    <td>Angular, Spring Boot, MySQL</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/yassinemarzouki/ecommerce-platform">E-commerce Platform</a></td>
-    <td>A scalable platform for managing online product catalogs and customer orders.</td>
-    <td>React, Node.js, MongoDB</td>
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/ecommerce-platform" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/shopping-cart.png" width="20" alt="E-commerce"> E-commerce Platform
+      </a>
+    </td>
+    <td style="padding: 15px;">A scalable platform for managing online product catalogs and customer orders.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    </td>
   </tr>
 </table>
+
 
 ---
 
