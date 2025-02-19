@@ -72,7 +72,7 @@
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 15px;">
       <a href="https://github.com/yassinemarzouki/project3" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
-        <img src="https://img.icons8.com/ios-filled/50/4CAF50/cloud-settings.png" width="20" alt="CloudOps"> CloudOps Automation
+        <img src="https://img.icons8.com/ios-filled/50/cloud-settings.png" width="20" alt="CloudOps"> CloudOps Automation
       </a>
     </td>
     <td style="padding: 15px;">DevOps pipeline implementation.</td>
