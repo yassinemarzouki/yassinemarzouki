@@ -95,7 +95,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
-  <tr>
+  <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 15px;">
       <a href="https://github.com/yassinemarzouki/ecommerce-platform" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
         <img src="https://img.icons8.com/ios-filled/50/4CAF50/shopping-cart.png" width="20" alt="E-commerce"> E-commerce Platform
@@ -103,12 +103,38 @@
     </td>
     <td style="padding: 15px;">A scalable platform for managing online product catalogs and customer orders.</td>
     <td style="padding: 15px;">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/edutech" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/graduation-cap.png" width="20" alt="EduTech"> EduTech
+      </a>
+    </td>
+    <td style="padding: 15px;">E-learning platform for online courses and student progress tracking.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px;">
+      <a href="https://github.com/yassinemarzouki/tabibi" style="color: #4CAF50; font-weight: bold; text-decoration: none;">
+        <img src="https://img.icons8.com/ios-filled/50/4CAF50/hospital.png" width="20" alt="Tabibi"> Tabibi
+      </a>
+    </td>
+    <td style="padding: 15px;">Clinic management system for scheduling appointments, patient records, and billing. Available in web and desktop versions.</td>
+    <td style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
     </td>
   </tr>
 </table>
+
 
 
 ---
